@@ -1159,9 +1159,9 @@ body {
 
 .background-text {
   font-size: 5vw; 
-  color: rgba(0, 0, 0, 0.3); 
+  color: rgba(255, 255, 255, 0.3); 
   position: fixed; 
-  top: 50px; 
+  top: 10px; 
   white-space: nowrap;
   z-index: 1000; 
 }
